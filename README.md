@@ -1,2 +1,2 @@
-# Zeus-SelfService
+# ZeusSelfService
 Zeus Self Service Code Repository
